@@ -1,0 +1,17 @@
+GXMZU Wuming Zhuang ASR 5h v1.0.0
+Copyright (c) 2026 GXMZU.
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+Except for separately identified third-party materials, the dataset audio,
+annotations, project-supplied reproduction scripts and documentation in this
+package are licensed under Creative Commons Attribution-NonCommercial4.0
+International (CC BY-NC4.0).
+
+Attribution: GXMZU, Wuming Zhuang ASR 5h, v1.0.0.
+Indicate modifications and do not use the licensed materials for commercial purposes.
+The complete legal terms are incorporated by reference and available at:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
+Human-readable deed: https://creativecommons.org/licenses/by-nc/4.0/
+
+This notice does not relicense the upstream Whisper model or third-party
+libraries. Their own terms apply. No upstream model weights are included.

@@ -1,0 +1,41 @@
+{
+  "dev_best": {
+    "step": 576,
+    "scope": "complete_filtered_development",
+    "cer": 0.12270988298385559,
+    "wer": 0.5457407627420696,
+    "cer_edits": 21875,
+    "cer_reference_chars": 178266,
+    "wer_edits": 18374,
+    "wer_reference_tokens": 33668,
+    "utterances": 4120,
+    "unit": "fraction",
+    "normalization": "Unicode NFC and whitespace collapse; case, punctuation, digits preserved; CER excludes whitespace",
+    "wer_unit": "whitespace-delimited orthographic token; not certified lexical word or syllable",
+    "coverage_verified": true
+  },
+  "dev_final": {
+    "step": 1008,
+    "cer": 0.12611490693682476,
+    "wer": 0.5367114173696091,
+    "cer_edits": 22482,
+    "cer_reference_chars": 178266,
+    "wer_edits": 18070,
+    "wer_reference_tokens": 33668,
+    "utterances": 4120,
+    "unit": "fraction",
+    "normalization": "Unicode NFC and whitespace collapse; case, punctuation, digits preserved; CER excludes whitespace",
+    "wer_unit": "whitespace-delimited orthographic token; not certified lexical word or syllable",
+    "coverage_verified": true
+  },
+  "test_best": {
+    "rows": 1980,
+    "char_edits": 29577,
+    "reference_chars": 173450,
+    "token_edits": 19988,
+    "reference_tokens": 33544,
+    "cer": 0.170521764197175,
+    "token_wer": 0.5958740758406869
+  },
+  "scope": "historical reference metrics; external dev/test required to independently verify scores; no result guarantee from seed alone"
+}

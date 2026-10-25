@@ -1,0 +1,9 @@
+# Packaging-time observed dependencies; install torch2.6.0 CUDA12.4 separately as README.
+transformers==4.46.3
+numpy==2.5.4
+soundfile==0.12.1
+safetensors==0.8.0
+tokenizers==0.20.3
+huggingface-hub==0.36.2
+accelerate==1.0.1
+rapidfuzz==3.14.6

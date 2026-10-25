@@ -1,0 +1,21 @@
+{
+  "observed_at_utc": "2026-10-24T13:41:57.226124+00:00",
+  "python": "3.12.7 (main, Jun 11 2026, 14:26:46) [GCC 11.5.0]",
+  "packages": {
+    "torch": "2.6.0+cu124",
+    "transformers": "4.46.3",
+    "numpy": "2.5.4",
+    "soundfile": "0.12.1",
+    "safetensors": "0.8.0",
+    "tokenizers": "0.20.3",
+    "huggingface-hub": "0.36.2",
+    "accelerate": "1.0.1",
+    "rapidfuzz": "3.14.6"
+  },
+  "original_run_recorded": {
+    "torch": "2.6.0+cu124",
+    "device": "NVIDIA L20"
+  },
+  "ffmpeg": "ffmpeg version 4.2.7-0ubuntu0.1 Copyright (c) 2000-2022 the FFmpeg developers",
+  "historical_version_limit": "Only versions explicitly present in original run/source evidence are historical claims; other entries are packaging-time observed environment."
+}

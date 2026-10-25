@@ -1,0 +1,9 @@
+{
+  "original_dev_rows": 4120,
+  "reference_characters": 178266,
+  "reference_tokens": 33668,
+  "original_dev_order_audio_reference_sha256": "05d0fdd3ba5ba8acaf1156896f77afe24bc9612d1a6e44d348f7308f913eeb84",
+  "digest_encoding": "SHA256 of ordered compact UTF8 JSON [raw_audio_sha256,NFC_whitespace_collapsed_text], newline after each row",
+  "dev_audio_or_references_included": false,
+  "test_audio_or_references_included": false
+}

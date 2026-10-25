@@ -1,0 +1,12 @@
+{
+  "original_trainer_sha256": "64646cd6c3644a83c5cd6cc9e23f521342f391aa97e2cb7fbf6d66956b376b70",
+  "portable_trainer_sha256": "cdd43e9befb2514ff52c354e1ed02060c93429fd7268e0ebeae652173f340d85",
+  "changed_function": "augmentation_run_spec",
+  "only_change": "private frozen-tier JSONL hash equality -> verified relocated public JSONL SHA in WZ5H_PUBLIC_MANIFEST_SHA256",
+  "all_other_module_AST_exact": true,
+  "model_augmentation_sampling_optimizer_rng_scheduler_resume_generation_unchanged": true,
+  "dependency_sha256": {
+    "common.py": "e0ae206c64591de13a4c07a27e976296e278dc5be81038784fba4ebccbf365b8",
+    "speech_augmentation.py": "9d6ed896f5eee2fbca8bcd75e53adf42eae76628b3d120c08bc9869e64a20685"
+  }
+}

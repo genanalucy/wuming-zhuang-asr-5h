@@ -1,0 +1,25 @@
+{
+  "state": "passed",
+  "training_files": 2585,
+  "source_speaker_identifiers": 22,
+  "source_raw_hashes_verified": true,
+  "raw_ffmpeg_decode_equals_actual_training_cache_all_rows": true,
+  "released_FLOAT32_waveforms_exact_all_rows": true,
+  "text_and_order_preserved": true,
+  "audio_metadata_chunks": [
+    "fmt ",
+    "fact",
+    "data"
+  ],
+  "source_private_path_scan_passed": true,
+  "private_speaker_name_scan_code_and_docs_passed": true,
+  "dev_or_test_material_included": false,
+  "model_weights_included": false,
+  "new_training_launched": false,
+  "new_model_inference": false,
+  "scripts_syntax_verified": true,
+  "portable_non_guard_AST_unchanged": true,
+  "public_upload_performed": false,
+  "attribution": "GXMZU",
+  "license": "CC-BY-NC-4.0"
+}

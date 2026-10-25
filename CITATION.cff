@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please attribute and cite GXMZU when using this dataset."
+type: dataset
+title: "GXMZU Wuming Zhuang ASR 5h"
+version: "1.0.0"
+authors:
+  - name: "GXMZU"
+license: CC-BY-NC-4.0
+url: "https://github.com/genanalucy/wuming-zhuang-asr-5h"
+repository-code: "https://github.com/genanalucy/wuming-zhuang-asr-5h"

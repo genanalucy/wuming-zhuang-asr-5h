@@ -1,0 +1,14 @@
+{
+  "source_tier_manifest_sha256": "92e89a678a019ce19df0f04c3a6ce6d6abff512ee3f13752df403786bb124cb3",
+  "training_rows": 2585,
+  "source_speaker_identifiers": 22,
+  "source_duration_hours": 4.99791996050422,
+  "actual_duration_hours": 4.995889704861111,
+  "normalized_text_order_sha256": "0b1fd708b37a2b6b4497284805eb064520f4113600ea355bf59ca6c50613fec5",
+  "ordered_pcm_hashes_sha256": "dde38e57aadd2faaba7b67ca7dfc2522d08e3b05f79ed62ac7d1009a4b540856",
+  "release_manifest_sha256": "2ffe43cbbb1ee9d761ca8918b55ef5f932737456a7cf7feab91cbcf6e6cbbf8b",
+  "waveform_representation": "16000Hz mono IEEE FLOAT32 WAV, exact original training input PCM",
+  "sample_order_preserved": true,
+  "text_labels_preserved": true,
+  "original_names_and_paths_exported": false
+}

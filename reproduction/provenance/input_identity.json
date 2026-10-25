@@ -1,0 +1,10 @@
+{
+  "source_manifest_sha256": "92e89a678a019ce19df0f04c3a6ce6d6abff512ee3f13752df403786bb124cb3",
+  "source_train_used_sha256": "92e89a678a019ce19df0f04c3a6ce6d6abff512ee3f13752df403786bb124cb3",
+  "original_train_configuration_sha256": "c916163e71b0f9897896444fe6231615176243b15ae2c1c149c71ad5b5e675cc",
+  "original_recipe_sha256": "f8d3f993d48008d5cef51f199d5048535275d4c486a92d96ee5773b873a1bd6a",
+  "original_command_sha256": "6abd6907452849ef644a8f9278bf51218caba5a558fd95e8b5b7957d1c0d88fa",
+  "initial_model_revision": "06f233fe06e710322aca913c1bc4249a0d71fce1",
+  "publisher": "GXMZU",
+  "license": "CC-BY-NC-4.0"
+}

@@ -1,0 +1,11 @@
+--- source/train_whisper_aug_ddp.py
++++ code/train_whisper_aug_ddp.py
+@@ -204,7 +204,7 @@
+             raise ValueError('Formal data-efficiency trainer requires an approved tier')
+         tier_values = tier_budget[tier]
+         actual_manifest_sha = hashlib.sha256(Path(args.train_manifest).read_bytes()).hexdigest()
+-        if actual_manifest_sha != tier_values['manifest_sha256']:
++        if actual_manifest_sha != os.environ.get('WZ5H_PUBLIC_MANIFEST_SHA256'):
+             raise ValueError('Training manifest does not match the selected frozen tier')
+     if args.mode == 'train':
+         expected = {'max_steps': tier_values['max_steps'], 'lr': 1e-5, 'seed': 42,
